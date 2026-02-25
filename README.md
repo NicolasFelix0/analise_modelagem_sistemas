@@ -2,4 +2,4 @@
 # materia amodelagem de sistemas
  # curso analise e desenvolvimento de sistemas
 # faculdade anhanguera
-# **professor** (Nicolas)
+# professor Nicolas
